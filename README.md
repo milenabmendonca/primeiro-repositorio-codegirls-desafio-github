@@ -1,2 +1,2 @@
-# primeiro-repositorio-codegirls-desafio-github
-Desafio projeto Git/Github
+# Desafio de projeto sobre Git/GitHub DIO
+Primeiro repositório para projeto Git/GitHub
